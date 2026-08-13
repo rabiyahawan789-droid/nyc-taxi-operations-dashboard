@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw data
+*.parquet
+
+# macOS
+.DS_Store
+
+# Tableau temporary files
+*.twb~
+*.tmp
+*.twbr
