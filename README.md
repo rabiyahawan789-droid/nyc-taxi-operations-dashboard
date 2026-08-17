@@ -59,4 +59,3 @@ View the full interactive dashboard on Tableau Public:
 
 ![NYC Taxi Operations & Revenue Dashboard](dashboard-preview.png)
 
-
