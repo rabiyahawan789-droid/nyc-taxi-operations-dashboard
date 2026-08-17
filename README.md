@@ -51,10 +51,6 @@ Tableau Visualization
        ↓
 Interactive Operations & Revenue Dashboard
 
-## Dashboard Preview
-
-![NYC Taxi Operations & Revenue Dashboard](dashboard-preview.png)
-
 ## Interactive Tableau Dashboard
 
 View the full interactive dashboard on Tableau Public:
