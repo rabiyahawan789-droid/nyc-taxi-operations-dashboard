@@ -35,20 +35,18 @@ The project investigates:
 - **Jupyter Notebook** — Exploratory Data Analysis
 - **Tableau** — Interactive visualization and dashboard development
 - **Git & GitHub** — Version control and project management
-
 ## Project Workflow
 
-```text
 Raw NYC Taxi Data
-       ↓
+↓
 Data Cleaning & Transformation
-       ↓
+↓
 Feature Engineering & Aggregation
-       ↓
+↓
 Processed Analytical Datasets
-       ↓
+↓
 Tableau Visualization
-       ↓
+↓
 Interactive Operations & Revenue Dashboard
 
 ## Interactive Tableau Dashboard
@@ -60,3 +58,5 @@ View the full interactive dashboard on Tableau Public:
 ## Dashboard Preview
 
 ![NYC Taxi Operations & Revenue Dashboard](dashboard-preview.png)
+
+
